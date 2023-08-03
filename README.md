@@ -1,5 +1,5 @@
 
-  <h2>Hello Word my name is Samuel </h2>
+  <h2>Olá sou Samuel medeiros, Desenvolvedor  em .net, e outras tech </h2>
 <div style="display: inline_block"><br>
   <img align="center"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
