@@ -1,16 +1,65 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
 
-<!--
-**medeiros0441/medeiros0441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    h2 {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
 
-Here are some ideas to get you started:
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    li::before {
+      content: "🔹"; /* Adicione emojis aqui para estilizar a lista */
+      margin-right: 5px;
+    }
+
+    .category {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h2>Habilidades</h2>
+
+  <h3>Área de Desenvolvimento:</h3>
+  <ul>
+    <li>Linguagem de programação: C#</li>
+    <li>Linguagem de programação: Java</li>
+    <li>Biblioteca/Framework: .NET 4.8, ASP.NET, Bootstrap</li>
+    <li>Banco de Dados: SQL Server, MySQL</li>
+    <li>Front-end: HTML5, JavaScript, CSS3, jQuery, API Rest</li>
+    <li>Versionamento de código: Git, GitHub</li>
+    <li>Outras: Gestão de projetos, Testes e Depuração</li>
+  </ul>
+
+  <h3>Experiência e Habilidades:</h3>
+  <ul>
+    <li>Experiência do Usuário (UX)</li>
+    <li>Resolução de Conflitos</li>
+    <li>Trabalho Remoto e Autonomia</li>
+    <li>Resiliência e Persistência</li>
+    <li>Criatividade e Inovação</li>
+  </ul>
+
+  <h3>Outras Áreas:</h3>
+  <ul>
+    <li>Prospecção de clientes</li>
+    <li>Elaboração de planilhas</li>
+    <li>Suporte administrativo</li>
+    <li>Comunicação com cliente</li>
+    <li>Gestão de clientes</li>
+    <li>Vendas e Negociação</li>
+    <li>Comunicação Efetiva</li>
+    <li>Adaptabilidade</li>
+    <li>Resolução de Problemas</li>
+  </ul>
+</body>
+</html>
