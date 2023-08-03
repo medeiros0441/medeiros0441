@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -60,6 +58,4 @@
     <li>Comunicação Efetiva</li>
     <li>Adaptabilidade</li>
     <li>Resolução de Problemas</li>
-  </ul>
-</body>
-</html>
+  </ul> 
