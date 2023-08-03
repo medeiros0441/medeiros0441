@@ -10,36 +10,13 @@ Hello Word my name is Samuel
 <div> 
   <a href="https://instagram.com/samnuelmedeiros.bc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:medeiros0442@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuelmedeiros.bc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/samuelmedeirosbc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-
-    h2 {
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 5px;
-    }
-
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-
-    li::before {
-      content: "🔹"; /* Adicione emojis aqui para estilizar a lista */
-      margin-right: 5px;
-    }
-
-    .category {
-      font-weight: bold;
-    }
-  </style>  
+  
   <h2>Habilidades</h2>
 
   <h3>Área de Desenvolvimento:</h3>
