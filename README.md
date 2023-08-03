@@ -10,6 +10,8 @@
   <img align="center"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
   <br/>
+  <h2>Dados para contato</h2>
+  
 <div style="text:center"> 
   <a href="https://wa.me/5511971486656" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/samuel.medeiros.bc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
